@@ -7,10 +7,10 @@
 2. Kunal Manjare
 
 ### Lab 2
-1. Yet to be updated
+1. __________
 
 ### Lab 3
-1. Yet to be updated
+1. __________
 
 ### Lab 4
 1. Yatin Deshpande
@@ -22,4 +22,4 @@
 1. Tanmay Deshpande
 
 ### Lab 6
-1. Yet to be updated
+1. __________
