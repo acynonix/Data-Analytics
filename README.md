@@ -3,8 +3,8 @@
 ## Main Contributors:
 
 ### Lab 1
-1. Samarth Kamat
-2. Kunal Manjare
+-1. Samarth Kamat
+-2. Kunal Manjare
 
 ### Lab 2
 1. None
